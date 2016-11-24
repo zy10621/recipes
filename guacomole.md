@@ -1,5 +1,5 @@
 #Ingrediants
 - avacados
-- lemon
+-lime
 -salt
 #Instructions
