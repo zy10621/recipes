@@ -1,0 +1,3 @@
+*.dat
+results/
+#hidden from files and can see from ls -a
